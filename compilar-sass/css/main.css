@@ -1,0 +1,11 @@
+.main-content .p {
+  font-size: 12px;
+  color: red; }
+  .main-content .p a {
+    color: black;
+    text-decoration: none; }
+
+.main-content h1 {
+  color: blue;
+  font-style: bold;
+  padding: 0px; }
